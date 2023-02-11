@@ -21,7 +21,6 @@ status-website:
   name: Polywoo Status
   introTitle: "**Polywoo** status page powered by GitHub."
   introMessage: 
-  name: Your Status Website
   navbar:
     - title: Status
       href: /
