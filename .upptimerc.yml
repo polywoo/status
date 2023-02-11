@@ -9,8 +9,12 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Polywoo Home
+    url: https://polywoo.com
+  - name: Polywoo Account
+    url: https://account.polywoo.com
+  - name: Webapproach Union
+    url: https://union.webapproach.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
