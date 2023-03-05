@@ -4,53 +4,59 @@
     "url": "https://polywoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/polywoo.com.ico",
     "slug": "polywoo-home",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 497,
-    "timeWeek": 590,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 580,
+    "timeDay": 544,
+    "timeWeek": 591,
+    "timeMonth": 580,
+    "timeYear": 580,
+    "dailyMinutesDown": {
+      "2023-03-05": 3
+    }
   },
   {
     "name": "Polywoo Account",
     "url": "https://account.polywoo.com",
     "icon": "https://icons.duckduckgo.com/ip3/account.polywoo.com.ico",
     "slug": "polywoo-account",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 98,
-    "timeWeek": 223,
-    "timeMonth": 219,
-    "timeYear": 219,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 220,
+    "timeDay": 225,
+    "timeWeek": 222,
+    "timeMonth": 220,
+    "timeYear": 220,
+    "dailyMinutesDown": {
+      "2023-03-05": 2
+    }
   },
   {
     "name": "Webapproach Union",
     "url": "https://union.webapproach.net",
     "icon": "https://icons.duckduckgo.com/ip3/union.webapproach.net.ico",
     "slug": "webapproach-union",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 100,
-    "timeWeek": 231,
+    "timeDay": 231,
+    "timeWeek": 232,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-05": 0
+    }
   }
 ]
